@@ -21,7 +21,7 @@
 title: Victor Røer
 email: victorroer@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey! Dette er min (Victor Røer) hjemmeside,
+  Hey! Dette er min hjemmeside,
   jeg har ikke noget interessant på den endnu,
   men det ændrer sig nok på et tidspunkt.
 baseurl: "" # the subpath of your site, e.g. /blog
