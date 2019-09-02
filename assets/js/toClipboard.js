@@ -7,3 +7,5 @@ if (s !== null){
     navigator.clipboard.writeText(s);
     }
 
+//Incorporate this: https://stackoverflow.com/questions/13228835/passing-hash-symbol-in-request-parameter-of-url-not-working-in-firefox
+
