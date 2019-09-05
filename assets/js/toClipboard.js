@@ -5,7 +5,8 @@ var data = url.searchParams.get("data");
 console.log(s, data);
 
 if (s !== null && data == "base64"){
-    s = Base64.decode('ZGFua29nYWk=');
+    s = decodeURIComponent(s);
+    s = Base64.decode(s);
     console.log(s, data);
     }
 
