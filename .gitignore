@@ -3,6 +3,9 @@
 .AppleDouble
 .LSOverride
 
+.jekyll-cache
+Gemfile.lock
+_site
 
 
 # Thumbnails
